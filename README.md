@@ -26,14 +26,7 @@ language:
 
 python (dependencies included)
 
-tags:
 
-- stable-diffusion
-- text-to-image
-- diffusers
-- synthwave
-- merge
-inference: true
 ---
 
 ### RETROWAVE STUDIO
