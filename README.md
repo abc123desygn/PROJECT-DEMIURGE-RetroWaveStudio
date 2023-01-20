@@ -8,6 +8,8 @@ license: creativeml-openrail-m
 language:
 - en
 
+python (dependencies included)
+
 tags:
 
 - stable-diffusion
