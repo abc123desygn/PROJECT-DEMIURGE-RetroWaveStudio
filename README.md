@@ -41,6 +41,8 @@ Synthwave token
 
 ![512.png](https://s3.amazonaws.com/moonup/production/uploads/1670018139245-635eafb49f24f6db0a1eafd1.png)
 
+![1670018139496-635eafb49f24f6db0a1eafd1](https://user-images.githubusercontent.com/121518935/213888224-7d37e343-d2fe-4063-a8db-5e84a3742f4a.png)
+
 ![synthwaver.png](https://s3.amazonaws.com/moonup/production/uploads/1668986863310-63507e5e18a4f616c9dfba19.png)
 
 ![03879-1117761146-wireframe neon lines, (dark colors_1.2) with (lines polygonal mountain_1.2) in background, (saturn with ring behind the mountain.png](https://s3.amazonaws.com/moonup/production/uploads/1668986872957-63507e5e18a4f616c9dfba19.png)
