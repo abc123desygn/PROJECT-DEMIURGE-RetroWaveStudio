@@ -14,6 +14,16 @@ PROPERTY OF ABC 123 DESYGN ™
 - TV PRODUCTION
 - VFX/CGI
 - VIDEO GAME DEVELOPMENT
+
+SOFTWARE | NOTEBOOK
+-- | --
+ * **MODELING AGENCY A** |[![](https://img.shields.io/static/v1?message=Open%20in%20Colab&logo=googlecolab&labelColor=5c5c5c&color=0f80c1&label=%20&style=for-the-badge)](https://colab.research.google.com/github/abc123desygn/MODELING-AGENCY-A/blob/main/ABC_123_DESYGN_%E2%84%A2_MODELING_AGENCY_A.ipynb)
+ * **MODELING AGENCY B** | [![](https://img.shields.io/static/v1?message=Open%20in%20Colab&logo=googlecolab&labelColor=5c5c5c&color=0f80c1&label=%20&style=for-the-badge)](https://colab.research.google.com/github/abc123desygn/ProjectDemiurge-MODELING-AGENCY-B/blob/main/ABC_123_DESYGN_%E2%84%A2_(DEMIURGE)_MODELIING_AGENCY_B.ipynb)  |   
+ * **MODELING AGENCY C** | [![](https://img.shields.io/static/v1?message=Open%20in%20Colab&logo=googlecolab&labelColor=5c5c5c&color=0f80c1&label=%20&style=for-the-badge)](https://colab.research.google.com/github/abc123desygn/ProjectDemiurge-MODELING-AGENCY-C/blob/main/ABC_123_DESYGN_%E2%84%A2_(DEMIURGE)_MODELIING_AGENCY_C.ipynb)  |   
+ * **MODELING AGENCY D** | [![](https://img.shields.io/static/v1?message=Open%20in%20Colab&logo=googlecolab&labelColor=5c5c5c&color=0f80c1&label=%20&style=for-the-badge)](https://colab.research.google.com/github/abc123desygn/ProjectDemiurge-MODELING-AGENCY-D/blob/main/ABC_123_DESYGN_%E2%84%A2_(DEMIURGE)_MODELIING_AGENCY_D.ipynb)  |   
+ * **MODELING AGENCY E** | [![](https://img.shields.io/static/v1?message=Open%20in%20Colab&logo=googlecolab&labelColor=5c5c5c&color=0f80c1&label=%20&style=for-the-badge)](https://colab.research.google.com/github/abc123desygn/ProjectDemiurge-MODELING-AGENCY-E/blob/main/ABC_123_DESYGN_%E2%84%A2_(DEMIURGE)_MODELIING_AGENCY_E.ipynb)  |     
+ * **RetroWaveStudio** | [![](https://img.shields.io/static/v1?message=Open%20in%20Colab&logo=googlecolab&labelColor=5c5c5c&color=0f80c1&label=%20&style=for-the-badge)](https://colab.research.google.com/github/abc123desygn/PROJECT-DEMIURGE-RetroWaveStudio/blob/main/ABC_123_DESYGN_%E2%84%A2_(DEMIURGE)_RETROWAVE_STUDIO.ipynb)  | 
+
 ----------------------
 
 Description: A.I TOOL FOR MODELING AGENCY (A2). This features a Dreambooth model trained from 1.5 on a diverse Sythwave and Inkpunk dataset.
